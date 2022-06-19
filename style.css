@@ -10,6 +10,9 @@ body {
 	background: #F7F7F7;
 }
 
+h1 {
+    margin-top: 50px;
+}
 
 .header-content, main {
     background-color: white;
@@ -115,47 +118,6 @@ i {
 
 
 
-
-/*
-.card-link {
-  background-color: #047e7e;
-  border: 0 solid #E5E7EB;
-  box-sizing: border-box;
-  color: #000000;
-  display: flex;
-  font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-  font-size: 1.25rem;
-  font-weight: 700;
-  justify-content: center;
-  line-height: 1.75rem;
-  padding: .75rem 3rem;
-  position: relative;
-  text-decoration: none #000000 solid;
-  max-width: 340px;
-  position: relative;
-  cursor: pointer;
-  transform: rotate(-2deg);
-}
-
-.card-link:focus {
-  outline: 0;
-}
-
-.card-link:after {
-  content: '';
-  position: absolute;
-  border: 1px solid #000000;
-  bottom: 4px;
-  left: 4px;
-  width: calc(100% - 1px);
-  height: calc(100% - 1px);
-}
-
-.card-link:hover:after {
-  bottom: 2px;
-  left: 2px;
-}
-*/
 
 
 
