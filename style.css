@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'VT323', monospace ;
+
+}
+
+body {
+	background: #6C6C6C
+}
+
+
+.header-content, main {
+    background-color: white;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    
+}
+
+
+.header-content {
+    text-align: center;
+    padding: 20px;
+}
+
+.card-image {
+    margin-top: 100px;
+    height: 250px;
+    width: 350px;
+}
+
+.header-content_links {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.page-link {
+    color: #394DCD
+
+}
+
+.page-link:hover {
+    color: #006800;
+
+}
+
+
+.progress-bar {
+    background-color: #f47e50;
+    margin-top: 3px;
+    padding: 7px;
+
+}
+
+
+
+i {
+    font-size: 45px;
+    color: #394DCD;
+    margin-top: 50px;
+}
+
+.card-link {
+	border-bottom: 4px inset rgba(0,0,0,.5);
+	border-left: 4px inset rgba(0,0,0,.5);
+	border-right: 4px inset rgba(255,255,255,.5);
+	border-top: 4px inset rgba(255,255,255,.5);
+	box-sizing: border-box;
+	color: white;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 1rem;
+	margin: 1rem;
+	padding: 0.5rem;
+	text-transform: uppercase;
+    text-decoration: none;
+	
+}
+
+.link1 {
+    background: #E35F5F
+}
+
+.link1:hover {
+    background: #A81000;
+    color: white;
+}
+
+.link2 {
+    background: #208C71
+}
+
+.link2:hover {
+    background: #006800;
+    color: white;
+}
+
+
+.progress-bar_container {
+    margin-top: 50px;
+}
+
+
+
+
+/*
+.card-link {
+  background-color: #047e7e;
+  border: 0 solid #E5E7EB;
+  box-sizing: border-box;
+  color: #000000;
+  display: flex;
+  font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1.25rem;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1.75rem;
+  padding: .75rem 3rem;
+  position: relative;
+  text-decoration: none #000000 solid;
+  max-width: 340px;
+  position: relative;
+  cursor: pointer;
+  transform: rotate(-2deg);
+}
+
+.card-link:focus {
+  outline: 0;
+}
+
+.card-link:after {
+  content: '';
+  position: absolute;
+  border: 1px solid #000000;
+  bottom: 4px;
+  left: 4px;
+  width: calc(100% - 1px);
+  height: calc(100% - 1px);
+}
+
+.card-link:hover:after {
+  bottom: 2px;
+  left: 2px;
+}
+*/
+
+
+
